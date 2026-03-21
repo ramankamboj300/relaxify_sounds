@@ -1,7 +1,7 @@
 [
   { id: 'rain', name: 'Rainfall', icon: CloudRain, url: 'https://raw.githubusercontent.com/ramankamboj300/relaxify_sounds/main/rainfast.mp3', color: ['rgba(59, 130, 246, 0.2)', 'rgba(49, 46, 129, 0.2)'], accent: '#3b82f6' },
   { id: 'birds', name: 'Morning Birds', icon: Bird, url: 'https://github.com/ramankamboj300/relaxify_sounds/raw/refs/heads/main/birds.mp3', color: ['rgba(16, 185, 129, 0.2)', 'rgba(19, 78, 74, 0.2)'], accent: '#10b981' },
-  { id: 'crickets', name: 'Night Crickets', icon: Bug, url: 'https://cdn.pixabay.com/audio/2022/03/24/audio_3d1efc2725.mp3', color: ['rgba(132, 204, 22, 0.2)', 'rgba(20, 83, 45, 0.2)'], accent: '#84cc16' },
+  { id: 'crickets', name: 'Night Crickets', icon: Bug, url: 'https://github.com/ramankamboj300/relaxify_sounds/raw/refs/heads/main/crickets.mp3', color: ['rgba(132, 204, 22, 0.2)', 'rgba(20, 83, 45, 0.2)'], accent: '#84cc16' },
   { id: 'owl', name: 'Forest Owl', icon: Bird, url: 'https://cdn.pixabay.com/audio/2021/08/13/audio_73d4ee3855.mp3', color: ['rgba(124, 58, 237, 0.2)', 'rgba(46, 16, 101, 0.2)'], accent: '#7c3aed' },
   { id: 'frogs', name: 'Pond Frogs', icon: Music, url: 'https://cdn.pixabay.com/audio/2021/09/06/audio_f542a6c867.mp3', color: ['rgba(34, 197, 94, 0.2)', 'rgba(20, 83, 45, 0.2)'], accent: '#22c55e' },
   { id: 'wind', name: 'Soothing Wind', icon: Wind, url: 'https://cdn.pixabay.com/audio/2022/03/10/audio_b200b3491f.mp3', color: ['rgba(148, 163, 184, 0.2)', 'rgba(30, 41, 59, 0.2)'], accent: '#94a3b8' },
