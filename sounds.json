@@ -1,4 +1,4 @@
-export const SOUND_DATA = [
+[
   { id: 'rain', name: 'Rainfall', icon: CloudRain, url: 'https://raw.githubusercontent.com/ramankamboj300/relaxify_sounds/main/rainfast.mp3', color: ['rgba(59, 130, 246, 0.2)', 'rgba(49, 46, 129, 0.2)'], accent: '#3b82f6' },
   { id: 'birds', name: 'Morning Birds', icon: Bird, url: 'https://cdn.pixabay.com/audio/2024/02/08/audio_73f00f0744.mp3', color: ['rgba(16, 185, 129, 0.2)', 'rgba(19, 78, 74, 0.2)'], accent: '#10b981' },
   { id: 'crickets', name: 'Night Crickets', icon: Bug, url: 'https://cdn.pixabay.com/audio/2022/03/24/audio_3d1efc2725.mp3', color: ['rgba(132, 204, 22, 0.2)', 'rgba(20, 83, 45, 0.2)'], accent: '#84cc16' },
