@@ -19,5 +19,5 @@
   { id: 'underwater', name: 'Deep Sea', icon: Ship, url: 'https://github.com/ramankamboj300/relaxify_sounds/raw/refs/heads/main/sea.mp3', color: ['rgba(30, 64, 175, 0.2)', 'rgba(23, 37, 84, 0.2)'], accent: '#1d4ed8' },
   { id: 'magic', name: 'Ethereal', icon: Sparkles, url: 'https://github.com/ramankamboj300/relaxify_sounds/raw/refs/heads/main/ethereal.mp3', color: ['rgba(236, 72, 153, 0.2)', 'rgba(88, 28, 135, 0.2)'], accent: '#ec4899' },
   { id: 'typing', name: 'Soft Typing', icon: Keyboard, url: 'https://github.com/ramankamboj300/relaxify_sounds/raw/refs/heads/main/typing.mp3', color: ['rgba(107, 114, 128, 0.2)', 'rgba(17, 24, 39, 0.2)'], accent: '#6b7280' },
-  { id: 'forest', name: 'Forest Nature', icon: Leaf, url: 'https://github.com/ramankamboj300/relaxify_sounds/raw/refs/heads/main/spring-forest-nature.mp3', color: ['rgba(148, 114, 148, 0.2)', 'rgba(17, 24, 39, 0.2)'], accent: '#6b7280' },
+  { id: 'forest', name: 'Forest Nature', icon: Tree, url: 'https://github.com/ramankamboj300/relaxify_sounds/raw/refs/heads/main/spring-forest-nature.mp3', color: ['rgba(148, 114, 148, 0.2)', 'rgba(17, 24, 39, 0.2)'], accent: '#6b7280' },
 ];
