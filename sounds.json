@@ -23,5 +23,10 @@
   { id: 'mosquito', name: 'Mosquito', icon: Bug, url: 'https://github.com/ramankamboj300/relaxify_sounds/raw/refs/heads/main/mosquito.mp3', color: ['rgba(132, 204, 22, 0.2)', 'rgba(20, 83, 45, 0.2)'], accent: '#84cc16' },
   { id: 'dropping', name: 'Water Dropping', icon: Rain, url: 'https://github.com/ramankamboj300/relaxify_sounds/raw/refs/heads/main/water%20dropping.mp3', color: ['rgba(59, 130, 246, 0.2)', 'rgba(49, 46, 129, 0.2)'], accent: '#3b82f6' },
   { id: 'airplane', name: 'Airplane', icon: Airplane, url: 'https://github.com/ramankamboj300/relaxify_sounds/raw/refs/heads/main/airplane.mp3', color: ['rgba(148, 163, 184, 0.2)', 'rgba(30, 41, 59, 0.2)'], accent: '#94a3b8' },
+  { id: 'relax', name: 'Relax Sound', icon: Wind, url: 'https://github.com/ramankamboj300/relaxify_sounds/raw/refs/heads/main/relax.mp3', color: ['rgba(148, 163, 184, 0.2)', 'rgba(30, 41, 59, 0.2)'], accent: '#94a3b8' },
+  { id: 'guitar', name: 'Guitar', icon: Guitar, url: 'https://github.com/ramankamboj300/relaxify_sounds/raw/refs/heads/main/guitar.mp3', color: ['rgba(55, 65, 81, 0.2)', 'rgba(0, 0, 0, 0.2)'], accent: '#fbbf24' },
+  { id: 'romantic', name: 'Romantic', icon: Heart, url: 'https://github.com/ramankamboj300/relaxify_sounds/raw/refs/heads/main/romantic.mp3', color: ['rgba(6, 182, 212, 0.2)', 'rgba(30, 64, 175, 0.2)'], accent: '#06b6d4' },
+  { id: 'sleeping', name: 'Sleeping', icon: Flame, url: 'https://github.com/ramankamboj300/relaxify_sounds/raw/refs/heads/main/sleeping.mp3', color: ['rgba(249, 115, 22, 0.2)', 'rgba(127, 29, 29, 0.2)'], accent: '#f97316' },
+  { id: 'flute', name: 'Flute', icon: Flute, url: 'https://github.com/ramankamboj300/relaxify_sounds/raw/refs/heads/main/flute.mp3', color: ['rgba(59, 130, 246, 0.2)', 'rgba(30, 64, 175, 0.2)'], accent: '#3b82f6' },
 
 ];
